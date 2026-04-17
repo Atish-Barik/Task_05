@@ -420,7 +420,6 @@ pip install pandas numpy scikit-learn matplotlib seaborn jupyter
 
 ## 👤 Author
 
-**Your Name**  
 Atish Barik 
 AI & ML Internship — Elevate Labs | Task 5 | 
 
